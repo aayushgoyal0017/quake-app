@@ -1,1 +1,1 @@
-# quake-apps
+# quake-app
